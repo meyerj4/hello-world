@@ -5,12 +5,6 @@
 
 int main(int argc, char* argv[])
 {
-  // hello-world develop
-  // more comments
-  // hello-world master
-  // yay comments!!
 	return 0;
-  //where does this push to?
-  // fixing
 }
 
